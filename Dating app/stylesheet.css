@@ -1,0 +1,9 @@
+body {color: purple ;margin: 0px 70px 0px 70px;}
+.background-image {opacity: 2;}
+.register {display: flex;
+    border: 3px double black;
+    padding-left: 40px;
+flex-direction: column;
+flex-flow: column wrap;}
+.fitems{justify-items: flex-start;
+    width: 300px}
